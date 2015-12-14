@@ -1,0 +1,34 @@
+{
+  "name": "humanized-duration",
+  "description": "Display durations in short yet human readable way.",
+  "main": "./humanized-duration.js",
+  "author": {
+    "name": "Mustafa Dokumacı",
+    "email": "mustafa@foraa.com",
+    "url": "http://mustafadokumaci.com"
+  },
+  "version": "0.0.1",
+  "keywords": [
+    "humanized",
+    "duration",
+    "millisecond",
+    "second",
+    "minute",
+    "hour",
+    "day",
+    "week",
+    "short"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mstdokumaci/humanized-duration.git"
+  },
+  "homepage": "https://github.com/mstdokumaci/humanized-duration",
+  "devDependencies": {"mocha": "latest"},
+  "license": "GPLv2",
+  "ignore": [
+    ".npmignore",
+    ".gitignore",
+    "package.json"
+  ]
+}
